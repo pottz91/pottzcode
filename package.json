@@ -1,0 +1,21 @@
+{
+    "name": "pottzcode",
+    "displayName": "pottzcode",
+    "description": "My Personal Theme made with YO CODE!",
+    "version": "0.0.1",
+    "engines": {
+        "vscode": "^1.61.0"
+    },
+    "categories": [
+        "Themes"
+    ],
+    "contributes": {
+        "themes": [
+            {
+                "label": "pottzcode theme",
+                "uiTheme": "vs-dark",
+                "path": "./themes/pottzcode theme-color-theme.json"
+            }
+        ]
+    }
+}
